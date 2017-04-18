@@ -1,0 +1,12 @@
+[
+  {
+    "applicationUID": "826183400869355520",
+    "openingUID": "826182940630294528",
+    "coverLetter": "Hello Eivind Semb,\n\nThank you for reaching me out. I've recently created a bunch of scrappers including the required functionality:\n- scrapping yellowpages;\n- finding contact page(s) on company website(s);\n- finding emails.\nFinding company twitter and looking for email there also can be helpful.\nPossible solutions are Chrome extension or PHP script.\n\nI can start immediately and prove the concept within a day.\nThe entire development will take 3 days for programming and 3-5 days for testing.\nMy skype: promios\n\nBest regards,\nRinat"
+  },
+  {
+    "applicationUID": "831282792630288384",
+    "openingUID": "831282121029644288",
+    "coverLetter": "Hi David,\n\nThank you for reaching me out.\n\nI don't use Perl but having a strong background in web scraping, including my work as a CTO at Periodix.net startup, that scraped data from various (user defined) sites and displayed it on a dashboard.\n\nI've implemented about 50 scrappers, I know how to simulate browsers and user actions and avoid bans, how to crawl js-driven and ajax-driven sites, pass authorization forms, distribute and optimize the load, optimize DB queries and get rid of the duplicates, etc.\n\nI'm living in Ukraine now, spent about a month in Mountain View \/ SF last fall.\n8am-3pm PST is a good working time for me.\n\nThanks,\n\nBest regards,\nRinat"
+  }
+]
